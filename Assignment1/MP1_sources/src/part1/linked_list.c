@@ -3,6 +3,7 @@
 
 void Init (int M, int b){
 	sdfsad
+	sdnfosdbvoshj
 }
 
 void Destroy (){
