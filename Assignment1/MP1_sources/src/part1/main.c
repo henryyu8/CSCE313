@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include "linked_list.h"
 
 int main(int argc, char ** argv) 
 {
+	Linkedlist *item = new Linkedlist();
 	int b = 128;
 	int M = b * 11;  // so we have space for 11 items
 	
