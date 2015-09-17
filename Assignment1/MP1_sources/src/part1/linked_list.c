@@ -2,7 +2,7 @@
 #include "linked_list.h"
 
 void Init (int M, int b){
-	
+	sdfsad
 }
 
 void Destroy (){
